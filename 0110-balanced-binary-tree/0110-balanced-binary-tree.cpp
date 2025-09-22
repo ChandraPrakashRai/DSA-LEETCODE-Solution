@@ -11,23 +11,26 @@
  */
 class Solution {
 public:
-    int check(TreeNode* root)
+    int height(TreeNode* root , int &valid)
     {
         if(root==NULL) return 0;
 
-        int lh = check(root->left);
-        if(lh==-1) return -1;
-        int rh = check(root->right);
-        if(rh==-1) return -1;
+        int lh = height(root->left , valid);
 
-        if(lh==-1 && rh==-1) return -1;
-        if(abs(lh-rh)>1) return -1;
+        int rh = height(root->right , valid);
 
-        return 1+max(lh,rh);
+        if(abs(lh-rh) > 1) 
+        {
+            valid = 0;
+            return valid;
+        }
+
+        return 1+max(lh , rh);
     }
     bool isBalanced(TreeNode* root) {
-        //  SOLVING using the CONCEPT of HEIGHT Of BINARY TREE
-        return check(root)!=-1;
-        
+        int valid = 1;
+        height(root , valid);
+
+        return valid;
     }
 };
