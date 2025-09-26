@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
