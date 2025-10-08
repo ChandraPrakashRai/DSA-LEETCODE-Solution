@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
