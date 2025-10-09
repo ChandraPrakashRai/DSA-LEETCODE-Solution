@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
 ## Union Find
 |  |
 | ------- |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
