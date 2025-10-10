@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
