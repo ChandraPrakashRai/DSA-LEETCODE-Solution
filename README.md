@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
