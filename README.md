@@ -1,5 +1,5 @@
-# DSA-LEETCODE-Solution
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/de94981e-029f-49d1-b314-e1b66320d4f0" /># DSA-LEETCODE-Solution
+A collection of LeetCode questions to ace the coding interview! - Chandra Prakash Rai
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
