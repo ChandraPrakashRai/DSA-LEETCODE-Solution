@@ -1,5 +1,5 @@
-<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/de94981e-029f-49d1-b314-e1b66320d4f0" /># DSA-LEETCODE-Solution
-A collection of LeetCode questions to ace the coding interview! - Chandra Prakash Rai
+# DSA-LEETCODE-Solution
+A collection of LeetCode questions to ace the coding interview! - by  Chandra Prakash Rai
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
