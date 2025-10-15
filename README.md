@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
 ## Math
 |  |
 | ------- |
