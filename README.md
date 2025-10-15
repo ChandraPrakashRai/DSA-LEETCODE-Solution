@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0001-two-sum) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
