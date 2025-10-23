@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
@@ -214,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
