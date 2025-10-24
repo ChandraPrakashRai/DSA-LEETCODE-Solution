@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0001-two-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
 ## String Matching
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
