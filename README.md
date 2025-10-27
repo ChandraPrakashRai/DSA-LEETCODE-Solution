@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Union Find
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String Matching
 |  |
 | ------- |
