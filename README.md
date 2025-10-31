@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
 | ------- |
