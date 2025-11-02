@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Brainteaser
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String Matching
 |  |
 | ------- |
