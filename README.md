@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
