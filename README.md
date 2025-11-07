@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
