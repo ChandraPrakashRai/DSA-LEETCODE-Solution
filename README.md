@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0145-binary-tree-postorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search
@@ -271,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0098-validate-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
