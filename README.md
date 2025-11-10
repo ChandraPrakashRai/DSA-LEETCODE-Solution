@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -287,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
