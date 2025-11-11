@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        // BOTTOM UP APPROACH
+     int climb(int i ,int n , vector<int> &dp){
+     
+        if(i==n)
+        return 1;
 
-        if(n==1 || n==2 || n==3) return n;
+        if(i>n)
+        return 0;
 
-        vector<int> t(n+1); // n+1 size ka ak vector bna liya hai hmne
+        if(dp[i]!=-1)
+        return dp[i];
         
-        t[0]=0; 
-        t[1]=1; 
-        t[2]=2; 
 
-        for(int i = 3 ; i<=n ; i++)
-        {
-            t[i] = t[i-1] + t[i-2];
-        }
 
-        return t[n];
+        return dp[i] =  climb(i+1 , n , dp) + climb(i+2 , n , dp);
+     }
+    int climbStairs(int n) {
+        vector<int>dp(n+2 , -1);
+        int i = 0;
+       return climb(i ,n  ,dp);
     }
 };
