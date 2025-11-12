@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
