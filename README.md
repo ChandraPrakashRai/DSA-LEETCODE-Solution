@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
