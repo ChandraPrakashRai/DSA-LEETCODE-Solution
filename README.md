@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
