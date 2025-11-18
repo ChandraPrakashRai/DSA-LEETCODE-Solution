@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1603-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
