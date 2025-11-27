@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Database
 |  |
 | ------- |
