@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0009-palindrome-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0152-maximum-product-subarray) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0595-big-countries) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
