@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2288-count-operations-to-obtain-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Union Find
 |  |
