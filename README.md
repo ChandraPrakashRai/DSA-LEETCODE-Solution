@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0036-valid-sudoku](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1250-longest-common-subsequence) |
