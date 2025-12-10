@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Union Find
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -359,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
