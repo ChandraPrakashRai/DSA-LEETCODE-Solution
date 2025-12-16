@@ -1,23 +1,16 @@
 class Solution {
 public:
-     int climb(int i ,int n , vector<int> &dp){
-     
-        if(i==n)
-        return 1;
+int stair(int n , vector<int>&dp){
+    if(n==0 || n==1)
+    return 1;
 
-        if(i>n)
-        return 0;
+    if(dp[n]!=-1)
+    return dp[n];
 
-        if(dp[i]!=-1)
-        return dp[i];
-        
-
-
-        return dp[i] =  climb(i+1 , n , dp) + climb(i+2 , n , dp);
-     }
+    return dp[n] = stair(n-1 , dp) + stair(n-2 , dp);
+}
     int climbStairs(int n) {
-        vector<int>dp(n+2 , -1);
-        int i = 0;
-       return climb(i ,n  ,dp);
+        vector<int>dp(n+1 , -1);
+      return  stair(n , dp);
     }
 };
