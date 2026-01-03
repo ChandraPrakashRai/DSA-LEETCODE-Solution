@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0746-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1250-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
