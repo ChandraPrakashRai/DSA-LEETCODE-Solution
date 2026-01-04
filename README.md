@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1390-four-divisors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1390-four-divisors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1390-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2288-count-operations-to-obtain-zero) |
