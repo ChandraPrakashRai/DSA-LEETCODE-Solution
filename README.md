@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1390-four-divisors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
