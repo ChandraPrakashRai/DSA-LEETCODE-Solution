@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0704-binary-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
