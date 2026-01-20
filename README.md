@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1603-running-sum-of-1d-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
