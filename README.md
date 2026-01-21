@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0198-house-robber](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0392-is-subsequence) |
