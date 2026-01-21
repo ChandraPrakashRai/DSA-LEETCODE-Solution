@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0009-palindrome-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
