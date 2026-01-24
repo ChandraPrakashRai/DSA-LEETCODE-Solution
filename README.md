@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0100-same-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [1975-maximum-matrix-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0039-combination-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0216-combination-sum-iii) |
