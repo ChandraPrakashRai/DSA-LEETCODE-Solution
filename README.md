@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0046-permutations](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
