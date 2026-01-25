@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0198-house-robber) |
