@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0871-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0543-diameter-of-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0871-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3531-count-covered-buildings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
