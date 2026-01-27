@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
