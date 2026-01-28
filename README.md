@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0704-binary-search) |
