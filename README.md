@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0213-house-robber-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0704-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0136-single-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0069-sqrtx](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
