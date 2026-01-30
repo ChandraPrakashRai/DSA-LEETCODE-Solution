@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
