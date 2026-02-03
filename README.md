@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0051-n-queens](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0037-sudoku-solver](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [1975-maximum-matrix-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
