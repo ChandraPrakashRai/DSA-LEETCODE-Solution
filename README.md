@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1975-maximum-matrix-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1646-kth-missing-positive-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0876-middle-of-the-linked-list](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
@@ -459,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0050-powx-n](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0509-fibonacci-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
