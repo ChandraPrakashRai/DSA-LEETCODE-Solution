@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0213-house-robber-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0746-min-cost-climbing-stairs) |
