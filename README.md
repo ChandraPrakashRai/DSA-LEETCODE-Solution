@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0022-generate-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0152-maximum-product-subarray) |
