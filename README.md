@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0115-distinct-subsequences) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
