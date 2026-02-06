@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0064-minimum-path-sum) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0044-wildcard-matching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1975-maximum-matrix-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0509-fibonacci-number) |
 ## Ordered Set
