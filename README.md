@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
