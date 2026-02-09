@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0075-sort-colors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
