@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0088-merge-sorted-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0072-edit-distance](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
