@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0222-count-complete-tree-nodes](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0090-subsets-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
