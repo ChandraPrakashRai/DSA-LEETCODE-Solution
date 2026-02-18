@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0268-missing-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
