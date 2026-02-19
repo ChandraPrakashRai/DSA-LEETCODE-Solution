@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0344-reverse-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0516-longest-palindromic-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0696-count-binary-substrings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0812-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1205-defanging-an-ip-address) |
