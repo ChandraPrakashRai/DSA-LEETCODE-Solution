@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0401-binary-watch](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0292-nim-game](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1390-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
