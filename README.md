@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 | [0941-sort-array-by-parity](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3634-minimum-removals-to-balance-array) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/3583-count-special-triplets) |
 ## Prefix Sum
