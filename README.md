@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0048-rotate-image) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0234-palindrome-linked-list) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - by  Chandra Pr
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ChandraPrakashRai/DSA-LEETCODE-Solution/tree/master/0234-palindrome-linked-list) |
