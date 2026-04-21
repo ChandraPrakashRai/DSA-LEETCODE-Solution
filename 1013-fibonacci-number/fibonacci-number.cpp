@@ -1,12 +1,25 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n==0)
+int t[31];
+
+int fibo(int n)
+{
+     if(n==0)
         return 0;
 
         if(n==1)
         return 1;
 
-        return fib(n-1)+ fib(n-2);
+        if(t[n]!=-1)
+        return t[n];
+
+        return t[n] =  fib(n-1)+ fib(n-2);
+}
+    int fib(int n) {
+
+        memset(t, -1 , sizeof(t));
+        
+
+        return fibo(n);
     }
 };
