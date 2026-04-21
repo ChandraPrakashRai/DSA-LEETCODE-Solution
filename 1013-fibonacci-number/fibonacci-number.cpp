@@ -1,25 +1,24 @@
 class Solution {
 public:
-int t[31];
-
-int fibo(int n)
-{
-     if(n==0)
-        return 0;
-
-        if(n==1)
-        return 1;
-
-        if(t[n]!=-1)
-        return t[n];
-
-        return t[n] =  fibo(n-1)+ fibo(n-2);
-}
     int fib(int n) {
-
-        memset(t, -1 , sizeof(t));
         
+        if(n<=1)
+        {
+            return n;
+        }
 
-        return fibo(n);
+        // create a dp of size(n+1)
+        vector<int>dp(n+1);
+
+        // fill the dp with the base cases
+        dp[0]= 0;
+        dp[1]=1;
+
+        for(int i = 2 ; i<=n ; i++)
+        {
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+
+        return dp[n];
     }
 };
