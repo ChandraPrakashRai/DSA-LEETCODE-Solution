@@ -13,7 +13,7 @@ int fibo(int n)
         if(t[n]!=-1)
         return t[n];
 
-        return t[n] =  fib(n-1)+ fib(n-2);
+        return t[n] =  fibo(n-1)+ fibo(n-2);
 }
     int fib(int n) {
 
