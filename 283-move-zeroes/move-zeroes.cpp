@@ -1,23 +1,27 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        vector<int>temp(nums.size() , 0);
+        
+        // optimized code 
+
+        // use two pointer approach
+
+        int left = 0 ;
+        int right = 0;
 
 
-        int j = 0;
         for(int i = 0 ; i<nums.size() ; i++)
         {
-            if(nums[i] != 0)
+
+            if(nums[right]!=0)
             {
-                temp[j] = nums[i];
-                j++;
+                swap(nums[left] , nums[right]);
+                right++;
+                left++;
             }
-        }
-     for(int i = 0 ; i<temp.size() ; i++)
-        {
-            nums[i] = temp[i];
-        }
+            else
+            right++;
 
-
+        }
     }
 };
