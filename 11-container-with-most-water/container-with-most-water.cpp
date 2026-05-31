@@ -1,28 +1,29 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        //OPtimized 
-        // Two Pointer
+        
 
-        int l = 0;
-        int r = height.size()-1;
+        int maxWater = 0;
+        int lh = 0;
+        int rh = height.size()-1;
 
-        int maxArea = 0;
-
-        while(l<=r)
+        while(lh < rh)
         {
-            int h = min(height[l] , height[r]);
-            int width = r-l;
+            int w = rh - lh;
+            int ht = min(height[lh] , height[rh]);
 
-            maxArea = max(maxArea , h*width);
+            int currWater = ht * w;
 
-            if(height[l]<=height[r])
-            l++;
+            maxWater = max(maxWater , currWater);
 
+            if(height[lh] < height[rh])
+            {
+                lh++;
+            }
             else
-            r--;
-
+            rh--;
         }
-        return maxArea;
+
+        return maxWater ;
     }
 };
