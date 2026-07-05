@@ -9,22 +9,34 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        //** BRUTE FORCE **//
+        //** Using Slow and Fast Pointer  **//
 
-        set<ListNode*>st;
+       ListNode* slow = head;
+       ListNode* fast = head;
 
-        while(head)
-        {
-            if(st.find(head)!=st.end())
+
+       while(fast && fast->next)
+       {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if(slow==fast)
             {
-                return head;
+                ListNode* p = head;
+                 
+                while(p!=slow)
+                {
+                   p = p->next;
+                slow = slow->next;
+                }
+                return p;
+               
             }
 
-            st.insert(head);
+          
+           
+       }
 
-            head = head->next;
-        }
-
-        return NULL;
+       return NULL;
     }
 };
