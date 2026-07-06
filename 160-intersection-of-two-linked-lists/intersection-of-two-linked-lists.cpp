@@ -9,20 +9,29 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        
-        // easy approCH GO TO algomonster
+        unordered_map<ListNode* , int>mpp;
 
-        // ek line ka concept smjho
-        ListNode* ptrA = headA;
-        ListNode* ptrB = headB;
+        ListNode* temp = headA;
 
-        while(ptrA != ptrB)
+        while(temp )
         {
-            ptrA = (ptrA !=NULL) ? ptrA->next : headB;
-            ptrB = (ptrB !=NULL) ? ptrB->next: headA;
-
+            mpp[temp] = 1;
+            temp = temp->next;
         }
 
-        return ptrA;
+        temp = headB;
+
+        while(temp)
+        {
+            if(mpp.find(temp)!=mpp.end())
+            return temp;
+
+            else
+            temp = temp->next;
+        }
+
+        return NULL;
+
+
     }
 };
