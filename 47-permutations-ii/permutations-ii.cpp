@@ -1,31 +1,43 @@
 class Solution {
 public:
-    
-    void permute(vector<int>&arr , vector<vector<int>>&ans , int index)
+
+    void perm(vector<int>& nums, int idx,
+              vector<vector<int>>& ans, int n)
     {
-        if(index == arr.size())
+        // base case
+        if(idx == n)
         {
-            ans.push_back(arr);
+            ans.push_back(nums);
             return;
         }
 
-        vector<bool>use(21,0);
+        set<int> used;
 
-        for(int i = index ; i<arr.size() ; i++)
+        for(int i = idx; i < n; i++)
         {
-            if(use[arr[i]+10]==0)
+            // duplicate ko same level par skip karo
+            if(used.count(nums[i]))
             {
-                swap(arr[index],arr[i]);
-                permute(arr , ans , index+1);
-                swap(arr[index] , arr[i]);
-                use[arr[i]+10]=1;
+                continue;
             }
+
+            used.insert(nums[i]);
+
+            swap(nums[i], nums[idx]);
+
+            perm(nums, idx + 1, ans, n);
+
+            // backtrack
+            swap(nums[i], nums[idx]);
         }
     }
-    vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>>ans;
 
-        permute(nums,ans,0);
+    vector<vector<int>> permuteUnique(vector<int>& nums)
+    {
+        vector<vector<int>> ans;
+        int n = nums.size();
+
+        perm(nums, 0, ans, n);
 
         return ans;
     }
