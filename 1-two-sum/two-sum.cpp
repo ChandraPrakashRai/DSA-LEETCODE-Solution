@@ -1,21 +1,27 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& arr, int target) {
-        unordered_map<int , int>mp;
-        int n = arr.size();
-    
-    for(int i = 0 ; i<n ; i++)
-    {
-        int diff = target - arr[i];
-        
-        if(mp.find(diff)!=mp.end())
+    vector<int> twoSum(vector<int>& nums, int target) {
+        //using hashmap
+
+        int n = nums.size();
+        unordered_map<int,int>mp;
+
+        for(int i = 0 ; i<n ; i++)
         {
-            return { i , mp[diff] };
+            int diff = target - nums[i];
+
+            {
+                if(mp.find(diff)!=mp.end())
+                {
+                    
+                    return {i , mp[diff]};
+                }
+
+            mp[nums[i]] = i;
+
+            }
         }
-        else
-        mp[arr[i]] = i;
-    }
-    
-    return {};
+
+        return {};
     }
 };
